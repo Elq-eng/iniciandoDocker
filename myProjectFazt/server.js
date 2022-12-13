@@ -5,8 +5,8 @@ const app = express()
 const client = createPool({
     host: "localhost",
     port: 3308, 
-    user: "root",
-    password: "123456Je",
+    user: "",
+    password: "",
 })
 
 
